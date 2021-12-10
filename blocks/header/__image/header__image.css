@@ -5,7 +5,7 @@
 
 @media screen and (max-width:1140px) {
     .header__image {
-        max-width: calc(100vw - (2*148));
+        max-width: calc(100vw - (2px * 148px));
         margin: 64px auto 0;
     }
 }
