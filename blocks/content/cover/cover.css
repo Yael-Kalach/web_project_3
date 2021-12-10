@@ -1,5 +1,5 @@
 .cover {
-  min-width: 1184px;
+  max-width: 1184px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -7,6 +7,7 @@
   justify-items: center;
   align-items: center;
   margin: 92px auto;
+  background-image: url(../../../images/cover/__background.png);
 }
 
 @media screen and (max-width:768px) and (min-width:448px) {

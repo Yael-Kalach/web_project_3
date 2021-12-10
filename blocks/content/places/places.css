@@ -1,18 +1,18 @@
 .places {
-    max-width: calc(100vw - (145px * 2px));
+    max-width: calc(100vw - (145px * 2));
     margin: 90px 148px 92px;
 }
 
 @media screen and (max-width:768px) and (min-width:448px) {
     .places {
-        max-width: calc(100vw - (145px * 2px));
+        max-width: calc(100vw - (145px * 2));
         margin: 88px 24px 92px;
     }
 }
 
 @media screen and (max-width:448px) and (min-width:320px) {
     .places {
-        max-width: calc(100vw - (24px * 2px));
+        max-width: calc(100vw - (24px * 2));
         margin: 88px 24px 64px;
     }
   }
