@@ -1,0 +1,38 @@
+.place__artist_name {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.2;
+    text-align: left;
+    max-width: 456px;
+    }
+    
+    @media screen and (max-width:1140px) and (min-width:768px) {
+        .place__artist_name {
+            max-width: 456px;
+        }
+      }
+      
+      @media screen and (max-width:768px) {
+        .place__artist_name {
+            max-width: 352px;
+        }
+      }
+      
+      @media screen and (max-width:720px) and (min-width:448px) {
+        .place__artist_name {
+            max-width: 340px;
+        }
+      }
+      
+      @media screen and (max-width:448px) and (min-width:320px) {
+        .place__artist_name {
+            max-width: calc(100vw - (16px * 2));
+        }
+      }
+      
+      @media screen and (max-width:320px) {
+        .place__artist_name {
+            max-width: calc(100vw - (16px * 2));
+        }
+      }
