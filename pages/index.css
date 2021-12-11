@@ -26,7 +26,7 @@
 
 @import url(../blocks/content/intro/__quote/intro__quote.css);
 
-@import url(../blocks/content/intro/__quote/_author/intro__quote_author.css);
+@import url(../blocks/content/intro/__quote/intro__quote-author.css);
 
 @import url(../blocks/content/intro/__paragraph/intro__paragraph.css);
 
@@ -42,9 +42,9 @@
 
 @import url(../blocks/content/places/__artist/place__artist.css);
 
-@import url(../blocks/content/places/__artist/_heading/place__artist_heading.css);
+@import url(../blocks/content/places/__artist/place__artist-heading.css);
 
-@import url(../blocks/content/places/__artist/_name/place__artist_name.css);
+@import url(../blocks/content/places/__artist/place__artist-name.css);
 
 @import url(../blocks/content/places/__image/place__image.css);
 
