@@ -2,7 +2,7 @@
   width: 260px;
   min-height: 48px;
   margin: 0;
-  grid-area: "button";
+  grid-area: button;
   align-self: start;
 }
 

@@ -38,6 +38,8 @@
 
 @import url(../blocks/content/places/place/place.css);
 
+@import url(../blocks/content/places/__description/place__description.css);
+
 @import url(../blocks/content/places/__item/places__item.css);
 
 @import url(../blocks/content/places/__title/place__title.css);

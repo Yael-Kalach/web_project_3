@@ -2,7 +2,7 @@
     max-width: 100%;
     margin: 0;
     align-self: flex-start;
-    grid-area: "image";
+    grid-area: image;
 }
 
 @media screen and (max-width:1140px) {
