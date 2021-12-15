@@ -11,15 +11,8 @@
     align-self: center;
 }
 
-@media screen and (max-width:1140px) and (min-width:768px) {
-    .header {
-        padding: 34px 0 20px;
-    }
-}
-
 @media screen and (max-width:984px) {
     .header {
-        padding: 34px 0 20px;
         max-width: 100vw;
     }
 }
@@ -27,6 +20,5 @@
 @media screen and (max-width:320px) {
     .header {
         padding: 20px 0 20px;
-        max-width: 100vw;
     }
 }

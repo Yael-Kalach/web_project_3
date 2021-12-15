@@ -3,13 +3,6 @@
     padding: 0;
 }
 
-@media screen and (max-width:568px){
-  .places__item {
-      margin: 0;
-      padding: 0;
-  }
-}
-
   @media screen and (max-width:448px){
     .places__item {
       padding: 0 16px 0;
@@ -20,12 +13,3 @@
   }
   }
   
-  @media screen and (max-width:320px) {
-    .places__item {
-      padding: 0 16px 0;
-      
-    }
-    .places__item:nth-child(3) {
-      padding: 0;
-  }
- }

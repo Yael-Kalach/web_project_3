@@ -1,25 +1,22 @@
-.header__image {
-    max-width: 984px;
+.lead__image {
+    max-width: 100%;
     margin: 64px auto 0;
 }
 
 @media screen and (max-width:1140px) {
-    .header__image {
-        max-width: 100vw;
+    .lead__image {
         margin: 64px auto 0;
     }
 }
 
 @media screen and (max-width:768px) {
-    .header__image {
-        max-width: 100vw;
+    .lead__image {
         margin: 36px auto 0;
     }
 }
 
 @media screen and (max-width:320px) {
-    .header__image {
-        max-width: 100vw;
+    .lead__image {
         margin: 40px auto 0;
     }
 }

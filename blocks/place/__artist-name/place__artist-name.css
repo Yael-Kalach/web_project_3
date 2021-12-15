@@ -6,13 +6,7 @@
     text-align: left;
     max-width: 456px;
     }
-    
-    @media screen and (max-width:1140px) and (min-width:768px) {
-        .place__artist-name {
-            max-width: 456px;
-        }
-      }
-      
+
       @media screen and (max-width:768px) {
         .place__artist-name {
             max-width: 352px;
@@ -25,13 +19,7 @@
         }
       }
       
-      @media screen and (max-width:448px) and (min-width:320px) {
-        .place__artist-name {
-            max-width: calc(100vw - (16px * 2));
-        }
-      }
-      
-      @media screen and (max-width:320px) {
+      @media screen and (max-width:448px) {
         .place__artist-name {
             max-width: calc(100vw - (16px * 2));
         }

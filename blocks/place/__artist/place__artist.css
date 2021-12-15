@@ -12,12 +12,6 @@ padding: 0;
 grid-area: artist;
 }
 
-@media screen and (max-width:1140px) and (min-width:768px) {
-    .place__artist {
-      width: 456px;
-    }
-  }
-  
   @media screen and (max-width:768px) {
     .place__artist {
       width: 352px;
@@ -31,13 +25,6 @@ grid-area: artist;
   }
   
   @media screen and (max-width:448px) {
-    .place__artist {
-      width: 100vw;
-      padding: 0 16px 0;
-    }
-  }
-  
-  @media screen and (max-width:320px) {
     .place__artist {
       width: 100vw;
       padding: 0 16px 0;

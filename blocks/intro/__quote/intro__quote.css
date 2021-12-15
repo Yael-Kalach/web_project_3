@@ -13,15 +13,3 @@ margin: 0 0 90px;
         max-width: 100vw;
     }
 }
-
-@media screen and (max-width:448px) and (min-width:320px) {
-    .intro__quote {
-        max-width: 100vw;
-    }
-  }
-
-@media screen and (max-width:320px) {
-    .intro__quote {
-        max-width: 100vw;
-    }
-}
