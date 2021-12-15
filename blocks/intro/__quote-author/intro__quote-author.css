@@ -1,6 +1,6 @@
 .intro__quote-author {
 max-width: 720px;
-margin: 10px 0 0;
+margin: 10px 250px 0;
 font-size: 24px;
 font-style: normal;
 font-weight: 400;
@@ -12,6 +12,7 @@ align-self: end;
 @media screen and (max-width:768px) and (min-width:448px) {
     .intro__quote-author {
         max-width: calc(100vw - (24px * 2));
+        margin: 10px 0 0;
     }
 }
 
