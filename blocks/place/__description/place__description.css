@@ -1,4 +1,10 @@
 .place__description {
     grid-area: text;
-    padding: 0 16px 0;
+    padding: 0;
 }
+
+@media screen and (max-width:448px) {
+    .place__artist {
+      padding: 0 16px 0;
+    }
+  }

@@ -1,11 +1,11 @@
 .cover {
   max-width: 1184px;
-  min-height: 740px;
+  max-height: 740px;
   justify-content: center;
   justify-items: center;
   align-items: center;
   padding: 0;
-  margin: 92px auto;
+  margin: 92px auto 0;
   background-image: url(../../images/cover/__background.png);
   background-position: center;
   background-size: cover;
@@ -14,7 +14,7 @@
 @media screen and (max-width:768px) {
   .cover {
     max-width:768px;
-    min-height: 740px;
+    max-height: 746px;
     margin: 88px auto 0;
   }
 }
@@ -22,14 +22,14 @@
 @media screen and (max-width:448px) {
   .cover {
     max-width:448px;
-    min-height: 448px;
+    max-height: 448px;
   }
 }
 
 @media screen and (max-width:320px) {
   .cover {
     max-width: 320px;
-    min-height: 254px;
-    margin: 64px auto 0;
+    max-height: 254px;
+    margin: 0 auto 0;
   }
 }

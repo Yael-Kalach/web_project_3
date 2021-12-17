@@ -8,7 +8,7 @@ color: #aaa;
 max-width: 456px;
 margin: 0;
 text-transform: uppercase;
-letter-spacing: 12%;
+letter-spacing: 0.12em;
 }
   
   @media screen and (max-width:768px) {
