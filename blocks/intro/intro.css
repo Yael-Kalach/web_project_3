@@ -9,12 +9,6 @@
     padding: 0 24px 0;
 }
 
-@media screen and (max-width:1140px) {
-    .intro {
-        margin: 92px 0 118px;
-    }
-}
-
 @media screen and (max-width:768px) {
     .intro {
         max-width: 720px;
@@ -24,8 +18,8 @@
 
 @media screen and (max-width:448px) {
     .intro {
-        max-width: calc(100vw - (20px * 2));
-        margin: 32px 0 90px;
+        max-width: calc (100vw - (20px * 2));
+        margin: 64px 0 90px;
         padding: 0 16px 0;
     }
   }
@@ -33,6 +27,5 @@
 @media screen and (max-width:320px) {
     .intro {
         max-width: calc(100vw - (16px * 2));
-        margin: 64px 0 90px;
     }
 }

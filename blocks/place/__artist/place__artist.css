@@ -19,7 +19,7 @@ grid-area: artist;
     }
   }
   
-  @media screen and (max-width:448px) {
+  @media screen and (max-width:640px) {
     .place__artist {
       width: 100vw;
       padding: 0 16px 0;

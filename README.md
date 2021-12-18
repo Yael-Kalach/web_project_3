@@ -2,6 +2,8 @@
 
 This is the third project for school.
 
+link: https://yael-kalach.github.io/web_project_3/index.html
+
 I have used HTML and CSS for this project.
 
 This project is about the hometowns and places in the world from which the staff of practicum are from. I chose not to include my own town, despite the guidelines, because frankly there's nothing much to say about it beyond having a few nice status on the many roundabouts.

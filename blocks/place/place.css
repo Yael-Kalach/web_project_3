@@ -3,7 +3,7 @@
     padding: 0 auto 80px;
     display: grid;
     grid-template-columns: 460px 484px;
-    grid-template-rows: 1fr min-content;
+    grid-template-rows: min-content min-content 1fr;
     grid-gap: 40px 48px;
     grid-template-areas: 
     "title artist"
@@ -40,17 +40,6 @@
  }
 
 @media screen and (max-width: 640px) {
-    .place {
-     grid-template-areas: 
-     "title title"
-     "artist artist"
-     "image text"
-     "button text";
-     padding: 0 16px 0;
-    }
-}
-
-@media screen and (max-width: 568px) {
     .place {
         grid-template-areas: 
         "title"
