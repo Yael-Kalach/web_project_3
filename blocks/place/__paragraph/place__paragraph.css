@@ -31,4 +31,7 @@ align-self: flex-end;
         font-size: 16px;
         padding: 0 16px 0;
     }
+    .place__paragraph:last-of-type {
+      margin-bottom: 30px;
+    }
   }

@@ -17,7 +17,7 @@ letter-spacing: 0.12em;
     }
   }
   
-  @media screen and (max-width:720px) and (min-width:448px) {
+  @media screen and (max-width:720px) {
     .place__artist-heading {
         max-width: 340px;
     }

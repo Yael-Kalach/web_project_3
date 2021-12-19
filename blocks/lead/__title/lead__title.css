@@ -11,11 +11,6 @@
 @media screen and (max-width:768px) {
   .lead__title {
     max-width: calc (100vw - (24px * 2));
-  }
-}
-
-@media screen and (max-width:568px) {
-  .lead__title {
     padding: 0 20px 0;
   }
 }
